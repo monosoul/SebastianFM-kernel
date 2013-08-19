@@ -1,4 +1,5 @@
 #pragma GCC diagnostic ignored "-Wuninitialized"
+#pragma GCC diagnostic ignored "-Wmaybe-uninitialized"
 #include <linux/errno.h>
 #include <linux/mm.h>
 #include <linux/mman.h>
