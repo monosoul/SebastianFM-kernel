@@ -1,3 +1,4 @@
+#pragma GCC diagnostic ignored "-Wuninitialized"
 #include <linux/errno.h>
 #include <linux/mm.h>
 #include <linux/mman.h>
